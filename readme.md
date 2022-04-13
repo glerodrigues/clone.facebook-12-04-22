@@ -4,5 +4,5 @@
 
 #resposividade
 
-(HTML)[index.html]
-(CSS) [style.css]
+[html](/main/index.html)
+[CSS](/assets/css/style.css)
