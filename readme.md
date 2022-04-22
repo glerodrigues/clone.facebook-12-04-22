@@ -1,10 +1,10 @@
 # Clone Facebook com HTML, CSS
 
-# Flexbox
+## Flexbox
 
-# Resposividade
+## Resposividade
 
-## Porojeto desenvolvido atráves do bootcamp Transforma Tec
+
 
 [html](/main/index.html)
 [CSS](/assets/css/style.css)
